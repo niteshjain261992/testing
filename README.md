@@ -1,4 +1,4 @@
-## Referral
+### Referral
 
 ## Description
   Referral is simple sharing feature that gives power to user to share some product or block
