@@ -14,8 +14,15 @@ with their friends and get respective discount or wallet points
    * #### Referee (Object):
       This variable is used to define discount/wallets points in percentage/flat for referee.
    * #### Referrer (Object):
-      This variable is used to define discount/wallets points in percentage/flat for referrer.            
-
+      This variable is used to define discount/wallets points in percentage/flat for referrer.
+   * #### Invite Discount (Object):
+      This variable is used to define discount/wallets points to first time referee.
+   * #### Type (string):
+      This variable is used to define type of referral (wallet/template)
+        * ##### Wallet:
+            To update wallet points in wallet after user accept offer.
+        * ##### Template:
+            To fire template after user accept offer.
 
 
 
